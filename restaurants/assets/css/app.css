@@ -1,0 +1,19 @@
+/* This file is for your main application css. */
+
+/* assets/css/app.css */
+
+/* ... */
+
+.orange {
+  color: orange;
+}
+
+.fa-big {
+  transform: scale(1.5, 1.5);
+}
+
+.no-background {
+  background: transparent;
+}
+
+@import "./phoenix.css";
